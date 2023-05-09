@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "description": "Ghee is clarified butterfat and contains about 99% of milk fat.",
+      "id": "1",
+      "image": "https://m.media-amazon.com/images/I/619EgFRyWuL._AC_SY200_.jpg",
+      "price": 300,
+      "title":"Healthy Ghee"
+    },
+    {
+      "description": "Foxnuts or gorgon nuts are the puffed edible seeds of the Euryale ferox plant or prickly water lily.",
+      "id": "2",
+      "image": "https://m.media-amazon.com/images/I/81hT2+8VYWL._AC_UL480_FMwebp_QL65_.jpg",
+      "price": 500,
+      "title":"Phool Makhana"
+    },
+    {
+      "description": "These chocolate chocolate chip cookies are made with cocoa powder and chocolate chips to guarantee chocolaty flavor in every bite. .",
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/I/814iBcUf1aL._SX679_.jpg",
+      "price": 300,
+      "title":"Choco Chip Cookies"
+    }
+  ] 
+}
